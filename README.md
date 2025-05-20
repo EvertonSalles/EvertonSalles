@@ -69,12 +69,12 @@ Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidad
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
-    align="left" 
-    alt="TailwindCSS" 
-    title="TailwindCSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
+  align="left" 
+  alt="TailwindCSS" 
+  title="TailwindCSS"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
     align="left" 
