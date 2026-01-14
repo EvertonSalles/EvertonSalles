@@ -4,7 +4,7 @@
 
 Sou Everton Bruno, tenho 20 anos e sou de São Paulo, Capital. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia. Minha curiosidade em entender como as coisas funcionam e minha vontade de criar soluções inovadoras me levaram a explorar programação e desenvolvimento web.
 
-Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. Tenho experiência acadêmica com HTML, CSS, Tailwind Css, JavaScript, Node.js, Typescript e Banco de dados mysql.  e me destaco por ser organizado, comunicativo e dedicado ao trabalho em equipe. Meu objetivo é contribuir para projetos que tragam impacto real e me permitam crescer profissionalmente.
+Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades. Tenho experiência acadêmica com HTML, CSS, Tailwind Css, JavaScript, Node.js, Typescript e Banco de dados mysql. Me destaco por ser organizado, comunicativo e dedicado ao trabalho em equipe. Meu objetivo é contribuir para projetos que tragam impacto real e me permitam crescer profissionalmente.
 
 
 ---
